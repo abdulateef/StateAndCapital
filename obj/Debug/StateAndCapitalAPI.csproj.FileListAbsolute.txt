@@ -1,0 +1,8 @@
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\obj\Debug\StateAndCapitalAPI.Form1.resources
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\obj\Debug\StateAndCapitalAPI.Properties.Resources.resources
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\obj\Debug\StateAndCapitalAPI.csproj.GenerateResource.Cache
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\bin\Debug\StateAndCapitalAPI.exe.config
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\bin\Debug\StateAndCapitalAPI.exe
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\bin\Debug\StateAndCapitalAPI.pdb
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\obj\Debug\StateAndCapitalAPI.exe
+c:\users\abdullateef\documents\visual studio 2013\Projects\StateAndCapitalAPI\StateAndCapitalAPI\obj\Debug\StateAndCapitalAPI.pdb
